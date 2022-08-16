@@ -6,5 +6,6 @@ public class Word {
         System.out.println("word 修改");
         System.out.println("word2 修改");
         System.out.println("push ");
+         System.out.println("clone ");
     }
 }
