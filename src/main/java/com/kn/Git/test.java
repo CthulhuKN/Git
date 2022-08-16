@@ -8,6 +8,7 @@ public class test {
         int i = 1;
         System.out.println("12345");
         System.out.println("234556");
+        System.out.println("好了");
     }
 
 
